@@ -1,0 +1,3 @@
+D:/Kodowanie/Fractal-Images-Generator/cmake-build-debug/CMakeFiles/Fractal_Images_Generator.dir
+D:/Kodowanie/Fractal-Images-Generator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kodowanie/Fractal-Images-Generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
